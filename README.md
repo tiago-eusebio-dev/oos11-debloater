@@ -106,7 +106,7 @@ Systemlessly debloats OxygenOS 11.
 
 
 ## Changelog
-* 20211026 - Initial release
+* 2022006 - Initial release
 
 
 ## Notice

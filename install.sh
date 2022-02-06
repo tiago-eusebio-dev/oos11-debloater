@@ -223,7 +223,7 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "         OOS Debloater         "
-  ui_print "           v20211026           "
+  ui_print "           v20220206           "
   ui_print "         By tfae @ XDA         "
   ui_print "*******************************"
 }
