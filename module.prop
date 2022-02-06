@@ -1,0 +1,7 @@
+id=oos11-debloater
+name=OOS 11 Debloater
+version=20211026
+versionCode=1
+author=tfae
+description=Systemlessly debloats OxygenOS 11
+updateJson=https://raw.githubusercontent.com/tfae/oos11-debloater/main/update.json
