@@ -105,7 +105,6 @@ REPLACE="
 /system/product/priv-app/Turbo
 /system/vendor/app/CneApp
 /system/system_ext/priv-app/GoogleFeedback
-/system/system_ext/priv-app/OnePlusGallery
 /system/system_ext/priv-app/OnePlusPods
 /system/system_ext/priv-app/OPContacts
 /system/system_ext/priv-app/OpLogkit
@@ -128,7 +127,6 @@ REPLACE="
 /system_ext/app/uimremoteclient
 /system_ext/app/uimremoteserver
 /system_ext/priv-app/GoogleFeedback
-/system_ext/priv-app/OnePlusGallery
 /system_ext/priv-app/OnePlusPods
 /system_ext/priv-app/OPContacts
 /system_ext/priv-app/OpLogkit
@@ -223,7 +221,7 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "         OOS Debloater         "
-  ui_print "           v20220206           "
+  ui_print "           v20220321           "
   ui_print "         By tfae @ XDA         "
   ui_print "*******************************"
 }

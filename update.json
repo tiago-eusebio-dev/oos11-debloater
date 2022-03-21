@@ -1,6 +1,6 @@
 {
-    "version": "20220206",
-    "versionCode": 1,
-    "zipUrl": "https://github.com/tfae/oos11-debloater/releases/download/20220206/oos11-debloater-20220206.zip",
+    "version": "20220321",
+    "versionCode": 2,
+    "zipUrl": "https://github.com/tfae/oos11-debloater/releases/download/20220321/oos11-debloater-20220321.zip",
     "changelog": "https://raw.githubusercontent.com/tfae/oos11-debloater/main/changelog.md"
 }

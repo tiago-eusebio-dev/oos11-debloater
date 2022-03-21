@@ -60,7 +60,6 @@ Systemlessly debloats OxygenOS 11.
 /system/product/priv-app/Turbo
 /system/vendor/app/CneApp
 /system/system_ext/priv-app/GoogleFeedback
-/system/system_ext/priv-app/OnePlusGallery
 /system/system_ext/priv-app/OnePlusPods
 /system/system_ext/priv-app/OPContacts
 /system/system_ext/priv-app/OpLogkit
@@ -83,7 +82,6 @@ Systemlessly debloats OxygenOS 11.
 /system_ext/app/uimremoteclient
 /system_ext/app/uimremoteserver
 /system_ext/priv-app/GoogleFeedback
-/system_ext/priv-app/OnePlusGallery
 /system_ext/priv-app/OnePlusPods
 /system_ext/priv-app/OPContacts
 /system_ext/priv-app/OpLogkit
@@ -106,7 +104,8 @@ Systemlessly debloats OxygenOS 11.
 
 
 ## Changelog
-* 2022006 - Initial release
+* 20220321 - Don't remove OnePlus Gallery: it would freeze the UI when editing screenshots.
+* 20220206 - Initial release
 
 
 ## Notice
